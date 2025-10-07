@@ -1,0 +1,36 @@
+# Virtual environments
+.venv
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.py.class
+
+# Database
+*.sqlite3
+*.db
+
+# Environment variables
+.env
+.envrc
+
+# IDE files
+.vscode/
+.idea/
+.spyderproject
+.spyproject
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Distribution files
+dist/
+build/
+*.egg-info/
